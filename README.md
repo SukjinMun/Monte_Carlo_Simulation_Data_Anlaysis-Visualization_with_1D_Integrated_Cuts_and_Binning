@@ -1,5 +1,6 @@
 # Monte_Carlo_Simulation_Data_Anlaysis-Visualization_with_1D_Integrated_Cuts_and_Binning
 
+![Uploading photoex.PNG…]()
 
 In the context of data analysis, particularly in simulations or experimental physics, a 1D (integrated) cut refers to a technique where multi-dimensional data is reduced to one dimension by integrating or averaging over the other dimensions. This method is valuable for simplifying complex datasets into a more manageable form while still retaining essential insights.
 
